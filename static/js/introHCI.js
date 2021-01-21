@@ -13,7 +13,7 @@ function initializePage() {
 		$('.jumbotron h1').text("Javascript is connected");
 
 		// added to change the button
-		$("#testjs").text("Please wait...");
+		$("#testjs").text("You've just clicked the button! :)");
 		$(".jumbotron p").addClass("active");
 
 	});
